@@ -1,4 +1,14 @@
-        h1 {color: crimson;font-size:48;font-weight: 600;}
+@font-face {
+        font-family: Oswald;
+        src: url(/fonts/Oswald-Regular.ttf);
+        font-weight: 500;
+}
+
+h1 {color: crimson;
+                font-size:48;
+                font-weight: 600;
+                font-family: "Oswald";
+               
         p {color: grey;
         font-size: 24;}
         img {width: 200px;}
