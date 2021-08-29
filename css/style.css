@@ -20,6 +20,7 @@ h1 {color: crimson;
                 font-weight: 600;
                 font-family: Arial, Helvetica, sans-serif;
                 text-align: justify;
+                line-height: normal;
 }       
         p {color:bisque;
            font-size: 24;
